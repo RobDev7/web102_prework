@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="assets/walkthrough.gif" title="Video Walkthrough" alt="Video Walkthrough" />
+<img src="assets/codepath-sea-monster-demo.gif" title="Video Walkthrough" alt="Video Walkthrough" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
